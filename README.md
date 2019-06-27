@@ -1,2 +1,2 @@
 # yoonsungwooCPP
-for summer vacation c++ practice
+for 2019 summer vacation c++ practice
